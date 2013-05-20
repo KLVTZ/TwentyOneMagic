@@ -2,7 +2,7 @@ Twenty One Magic Card Trick
 ==============
 
 <h2>Description</h2>
-<p.
+<p>
 Abstract Data Types provide us greater flexibility from within Data Structures and the application of Stacks. As a result, please enjoy the simple Twenty One Magic Card Trick. The Algorithm implements a variety of concepts that allow it to obtain an automaton of intelligence by correctly guessing a card that a user randomly selects after three iteration of guesses within a stack of twenty one cards. Each method is divided intricately to provide greater organization and transparency of concept. 
 </p>
 
