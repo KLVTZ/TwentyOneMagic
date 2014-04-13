@@ -74,7 +74,7 @@ public class testDriver
         }
         else
         {
-            System.out.println("Go fuck yourself harddn");
+            System.out.println("See you in space cowboy...");
         }
     }
 }
