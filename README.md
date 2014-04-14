@@ -3,10 +3,10 @@ Twenty One Magic Card Trick
 
 Installation
 ------------
-1. Clone repository as is in current IDE/Project folder
+1. Clone repository in current project folder
 2. Create a new project with this directory
-3. Be sure to enable Java 7.0+ language level for use of diamon annotation
-4. Set Test Driver as Main Run
+3. Be sure to enable Java 7.0+ language level for use of diamond annotation
+4. Set Test Driver as main run
 5. Have fun!
 
 <h2>Description</h2>
