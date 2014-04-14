@@ -163,107 +163,107 @@ The following program prints out a deck of shuffled and unshuffled cards
 
 <p>Have you selected your random card (y/n): y</p>
 
-											 <p>The program will now deal the twenty-one cards in three stacks</p>
+<p>The program will now deal the twenty-one cards in three stacks</p>
 
-											 <p>Right Stack: </p>
-											 <p>1. 2 of Spades</p>
-											 <p>2. 9 of Diamonds</p>
-											 <p>3. Ace of Hearts</p>
-											 <p>4. 10 of Clovers</p>
-											 <p>5. 8 of Clovers</p>
-											 <p>6. Jack of Diamonds</p>
-											 <p>7. Jack of Clovers</p>
+<p>Right Stack: </p>
+<p>1. 2 of Spades</p>
+<p>2. 9 of Diamonds</p>
+<p>3. Ace of Hearts</p>
+<p>4. 10 of Clovers</p>
+<p>5. 8 of Clovers</p>
+<p>6. Jack of Diamonds</p>
+<p>7. Jack of Clovers</p>
 
-											 <p>Middle Stack: </p>
-											 <p>1. King of Spades</p>
-											 <p>2. 6 of Diamonds</p>
-											 <p>3. 7 of Spades</p>
-											 <p>4. Jack of Spades</p>
-											 <p>5. 6 of Spades</p>
-											 <p>6. 8 of Spades</p>
-											 <p>7. 6 of Clovers</p>
+<p>Middle Stack: </p>
+<p>1. King of Spades</p>
+<p>2. 6 of Diamonds</p>
+<p>3. 7 of Spades</p>
+<p>4. Jack of Spades</p>
+<p>5. 6 of Spades</p>
+<p>6. 8 of Spades</p>
+<p>7. 6 of Clovers</p>
 
-											 <p>Left Stack: </p>
-											 <p>1. King of Diamonds</p>
-											 <p>2. Ace of Diamonds</p>
-											 <p>3. 2 of Diamonds</p>
-											 <p>4. Ace of Clovers</p>
-											 <p>5. 3 of Spades</p>
-											 <p>6. 3 of Clovers</p>
-											 <p>7. Queen of Hearts</p>
+<p>Left Stack: </p>
+<p>1. King of Diamonds</p>
+<p>2. Ace of Diamonds</p>
+<p>3. 2 of Diamonds</p>
+<p>4. Ace of Clovers</p>
+<p>5. 3 of Spades</p>
+<p>6. 3 of Clovers</p>
+<p>7. Queen of Hearts</p>
 
-											 <p>Please select Stack(i.e. right, middle, left) in which your selected card is in: middle</p>
+<p>Please select Stack(i.e. right, middle, left) in which your selected card is in: middle</p>
 
-											 <p>The program will now deal the twenty-one cards in three stacks</p>
+<p>The program will now deal the twenty-one cards in three stacks</p>
 
-											 <p>Right Stack: </p>
-											 <p>1. 3 of Spades</p>
-											 <p>2. Ace of Diamonds</p>
-											 <p>3. 8 of Spades</p>
-											 <p>4. 7 of Spades</p>
-											 <p>5. Jack of Clovers</p>
-											 <p>6. 10 of Clovers</p>
-											 <p>7. 2 of Spades</p>
+<p>Right Stack: </p>
+<p>1. 3 of Spades</p>
+<p>2. Ace of Diamonds</p>
+<p>3. 8 of Spades</p>
+<p>4. 7 of Spades</p>
+<p>5. Jack of Clovers</p>
+<p>6. 10 of Clovers</p>
+<p>7. 2 of Spades</p>
 
-											 <p>Middle Stack: </p>
-											 <p>1. 3 of Clovers</p>
-											 <p>2. 2 of Diamonds</p>
-											 <p>3. 6 of Clovers</p>
-											 <p>4. Jack of Spades</p>
-											 <p>5. King of Spades</p>
-											 <p>6. 8 of Clovers</p>
-											 <p>7. 9 of Diamonds</p>
+<p>Middle Stack: </p>
+<p>1. 3 of Clovers</p>
+<p>2. 2 of Diamonds</p>
+<p>3. 6 of Clovers</p>
+<p>4. Jack of Spades</p>
+<p>5. King of Spades</p>
+<p>6. 8 of Clovers</p>
+<p>7. 9 of Diamonds</p>
 
-											 <p>Left Stack: </p>
-											 <p>1. Queen of Hearts</p>
-											 <p>2. Ace of Clovers</p>
-											 <p>3. King of Diamonds</p>
-											 <p>4. 6 of Spades</p>
-											 <p>5. 6 of Diamonds</p>
-											 <p>6. Jack of Diamonds</p>
-											 <p>7. Ace of Hearts</p>
+<p>Left Stack: </p>
+<p>1. Queen of Hearts</p>
+<p>2. Ace of Clovers</p>
+<p>3. King of Diamonds</p>
+<p>4. 6 of Spades</p>
+<p>5. 6 of Diamonds</p>
+<p>6. Jack of Diamonds</p>
+<p>7. Ace of Hearts</p>
 
-											 <p>Please select Stack(i.e. right, middle, left) in which your selected card is in: right</p>
+<p>Please select Stack(i.e. right, middle, left) in which your selected card is in: right</p>
 
-											 <p>The program will now deal the twenty-one cards in three stacks</p>
+<p>The program will now deal the twenty-one cards in three stacks</p>
 
-											 <p>Right Stack: </p>
-											 <p>1. 6 of Diamonds</p>
-											 <p>2. Ace of Clovers</p>
-											 <p>3. 10 of Clovers</p>
-											 <p>4. 8 of Spades</p>
-											 <p>5. 9 of Diamonds</p>
-											 <p>6. Jack of Spades</p>
-											 <p>7. 3 of Clovers</p>
+<p>Right Stack: </p>
+<p>1. 6 of Diamonds</p>
+<p>2. Ace of Clovers</p>
+<p>3. 10 of Clovers</p>
+<p>4. 8 of Spades</p>
+<p>5. 9 of Diamonds</p>
+<p>6. Jack of Spades</p>
+<p>7. 3 of Clovers</p>
 
-											 <p>Middle Stack: </p>
-											 <p>1. Jack of Diamonds</p>
-											 <p>2. King of Diamonds</p>
-											 <p>3. 2 of Spades</p>
-											 <p>4. 7 of Spades</p>
-											 <p>5. 3 of Spades</p>
-											 <p>6. King of Spades</p>
-											 <p>7. 2 of Diamonds</p>
+<p>Middle Stack: </p>
+<p>1. Jack of Diamonds</p>
+<p>2. King of Diamonds</p>
+<p>3. 2 of Spades</p>
+<p>4. 7 of Spades</p>
+<p>5. 3 of Spades</p>
+<p>6. King of Spades</p>
+<p>7. 2 of Diamonds</p>
 
-											 <p>Left Stack: </p>
-											 <p>1. Ace of Hearts</p>
-											 <p>2. 6 of Spades</p>
-											 <p>3. Queen of Hearts</p>
-											 <p>4. Jack of Clovers</p>
-											 <p>5. Ace of Diamonds</p>
-											 <p>6. 8 of Clovers</p>
-											 <p>7. 6 of Clovers</p>
+<p>Left Stack: </p>
+<p>1. Ace of Hearts</p>
+<p>2. 6 of Spades</p>
+<p>3. Queen of Hearts</p>
+<p>4. Jack of Clovers</p>
+<p>5. Ace of Diamonds</p>
+<p>6. 8 of Clovers</p>
+<p>7. 6 of Clovers</p>
 
-											 <p>Please select Stack(i.e. right, middle, left) in which your selected card is in: left</p>
+<p>Please select Stack(i.e. right, middle, left) in which your selected card is in: left</p>
 
-											 <p>Your secret card is Jack of Clovers</p>
-											 <p>BUILD SUCCESSFUL (total time: 12 seconds)</p>
+<p>Your secret card is Jack of Clovers</p>
+<p>BUILD SUCCESSFUL (total time: 12 seconds)</p>
 
 
-											 <h2>Credits</h2>
-											 <p>Abstract Data Type Stack created by Nell Dale</p>
-											 <p>Appplication and Algorithm created by Justin Page
+<h2>Credits</h2>
+<p>Abstract Data Type Stack created by Nell Dale</p>
+<p>Appplication and Algorithm created by Justin Page
 
-											 <p>Enjoy!</p>
+<p>Enjoy!</p>
 
 
